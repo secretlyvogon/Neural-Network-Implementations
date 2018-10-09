@@ -4,7 +4,6 @@ import tensorflow as tf
 import math
 import scipy
 
-#data = open('D:\\Trump1.txt', 'r').read()
 
 """ Get character data from text file """
 
